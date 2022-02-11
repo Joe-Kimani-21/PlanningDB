@@ -130,6 +130,7 @@ form {
     outline: none;
     margin-top: 7%;
     width: 100%;
+    color: #fff;
 }
 
 .login-form .login-submit {
