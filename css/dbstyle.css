@@ -5,6 +5,7 @@ iframe{
   padding-left: 300px;
   padding-right: 10px;
   background-repeat: no-repeat;
+  background-size: cover;
 }
 h1{
   padding-top: 0px;
